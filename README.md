@@ -18,6 +18,10 @@ Here is my resume.
 > - Main courses: Quantum mechanics and quantum computing, quantum cryptography and quantum communication, artificial intelligence technology, ML, NLP, HPC, image processing, CV and 3D vision, deep neural networks on high-performance clusters.
 
 
-
+## Experience
+> Shenzhen MSU-BIT University. Heuristic algorithms Research Group 
+> Oct 2020 - June 2021, advisor: associate prof. [Melnikov, Boris F](https://www.mathnet.ru/php/person.phtml?personid=27967&option_lang=eng) 
+> - Worked on the Heuristic algorithms for determining non-isomorphism and recalculating tournament graphs.
+> - Successfully defended bachelor’s thesis
 
 
