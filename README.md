@@ -49,7 +49,7 @@ Here is my resume.
 > Mar 2020, Successful Participant
 > - Team leader.
 
-> ## The 11th Lanqiao Cup C/C++ Program Design Province
+> ### The 11th Lanqiao Cup C/C++ Program Design Province
 >  Oct 2020, second-class prize
 
 > ### Chinese Contemporary Undergraduate Mathematical Contest in Modeling  
