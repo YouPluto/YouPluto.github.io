@@ -29,6 +29,38 @@ Here is my resume.
 > - Working on the efficient and economical iterative algorithm of the quantum master equation and the modeling of complex quantum electrodynamics models.
 
 
+## Publications
+> Collapse of dark states in Tavis-Cummings model
+> V. I. Afanasyev, Chen Ran, Yu. I. Ozhigov, You Jiangchuan
+> Computational Mathematics and Modeling volume 33, pages 273–283 (2022)
+> DOI: [10.1007/s10598-023-09571-8](https://doi.org/10.1007/s10598-023-09571-8)
+
+## Awards 
+> ### Chinese Government Scholarship
+> Dec 2021  
+> - Granted to talented young students to support their studies in Russia.
+
+> ### The Chinese Mathematics Competition
+> Nov 2020, second-class prize
+> - Nation-wide offical mathematics competition.
+
+> ### American Mathematical Contest in Modeling  
+> Mar 2020, Successful Participant
+> - Team leader.
+
+> ### Chinese Contemporary Undergraduate Mathematical Contest in Modeling  
+> Sep 2019, third-class prize
+
+> ## The 11th Lanqiao Cup C/C++ Program Design Province
+>  Oct 2020, second-class prize
+
+
+> ### SMBU Academic Scholarship
+> Sep 2018 - Jan 2019
+> Awarded to the best 10% students in one semester with excellent academic performance.
+
+
+
 
 
 
