@@ -20,8 +20,17 @@ Here is my resume.
 
 ## Experience
 > Shenzhen MSU-BIT University. Heuristic algorithms Research Group 
-> Oct 2020 - June 2021, advisor: associate prof. [Melnikov, Boris F](https://www.mathnet.ru/php/person.phtml?personid=27967&option_lang=eng) 
+> Oct 2020 - June 2021, advisor: prof. [Melnikov, Boris F](https://www.mathnet.ru/php/person.phtml?personid=27967&option_lang=eng) 
 > - Worked on the Heuristic algorithms for determining non-isomorphism and recalculating tournament graphs.
 > - Successfully defended bachelor’s thesis
+
+> ### Quantum Informatics Research Group
+> Sep 2021 - June 2023, advisor: prof. [Yu. I. Ozhigov](https://ru.wikipedia.org/wiki/%D0%9E%D0%B6%D0%B8%D0%B3%D0%BE%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%98%D0%B3%D0%BE%D1%80%D0%B5%D0%B2%D0%B8%D1%87)
+> - Working on the efficient and economical iterative algorithm of the quantum master equation and the modeling of complex quantum electrodynamics models.
+
+
+
+
+
 
 
