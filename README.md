@@ -58,6 +58,7 @@ Here is my resume.
 
 > ### SMBU Academic Scholarship
 > Sep 2018 - Sep 2019 first-class prize
+> 
 > Sep 2017 - Sep 2018, Sep 2019 - Jan 2021 second-class prize
 > - first-class prize: Awarded to the best 10% students in one semester with excellent academic performance.
 > - second-class prize: Awarded to the best 20% students in one semester with excellent academic performance.
