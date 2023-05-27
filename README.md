@@ -31,10 +31,15 @@ Here is my resume.
 
 
 ## Publications
-> Collapse of dark states in Tavis-Cummings model
+> ### Collapse of dark states in Tavis-Cummings model
 > V. I. Afanasyev, Chen Ran, Yu. I. Ozhigov, You Jiangchuan
 > Computational Mathematics and Modeling volume 33, pages 273–283 (2022)
 > DOI: [10.1007/s10598-023-09571-8](https://doi.org/10.1007/s10598-023-09571-8)
+
+> ### Qualitative model of a positive hydrogen peroxide ion in a thermal bath
+> Chen Ran, Yu. I. Ozhigov, You Jiangchuan
+> Comments: Accepted to be published in Computational Mathematics and Modeling
+
 
 ## Awards 
 > ### Chinese Government Scholarship
@@ -52,7 +57,7 @@ Here is my resume.
 > ### The 11th Lanqiao Cup C/C++ Program Design Province
 >  Oct 2020, second-class prize
 
-> ### Chinese Contemporary Undergraduate Mathematical Contest in Modeling  
+> ### Chinese Contemporary Undergraduate Mathematical Contest in Modeling
 > Sep 2019, third-class prize
 > - Team leader
 
