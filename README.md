@@ -10,6 +10,7 @@ Here is my resume.
 > Master of Applied Mathematics and Informatics  
 > - Department of Department of Supercomputers and Quantum Informatics
 > - Main courses: Quantum mechanics and quantum computing, quantum cryptography and quantum communication, artificial intelligence technology, ML, NLP, HPC, image processing, CV and 3D vision, deep neural networks on high-performance clusters.
+> - Overall GPA: 4.0/4.0  
 
 > ### Shenzhen MSU‐BIT University (Joint University)  
 > Sep 2017 - Jun 2021   
