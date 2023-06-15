@@ -5,7 +5,7 @@ of Sciences](https://ftian.ru/en/), head of Quantum Informatics Research Group. 
 Here is my resume.
 
 ## Education
-> ### Moscow State University  
+> ### Lomonosov Moscow State University  
 > Sep 2021 - Jun 2023  
 > Master of Applied Mathematics and Informatics  
 > - Department of Department of Supercomputers and Quantum Informatics
